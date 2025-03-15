@@ -13,7 +13,7 @@
 <h2 align="center">📌 Technical Skills</h2>
 
 <p align="center">
-  <table align="center" style="margin: auto;" >
+  <table align="" style="margin: auto;" >
     <tr>
       <th>Domain</th>
       <th>Technologies</th>
