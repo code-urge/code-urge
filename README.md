@@ -64,7 +64,7 @@
 <h2 align="center">📊 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurge&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-urge&layout=compact&theme=radical">
 </p>
 
 ---
