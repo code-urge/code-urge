@@ -72,8 +72,9 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-urge&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-urge&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
 
 ---
 
