@@ -13,7 +13,7 @@
 <h2 align="center">📌 Technical Skills</h2>
 
 <p align="center">
-  <table style="margin: auto;">
+  <table align="center" style="margin: auto;" >
     <tr>
       <th>Domain</th>
       <th>Technologies</th>
@@ -91,4 +91,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=adobe&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
 </p>
-<p align = "right">![MyartMygifGIF](https://github.com/user-attachments/assets/1d8894ce-f31f-427a-a946-f21238982796)</p>
+
