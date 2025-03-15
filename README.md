@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, <br> I'm CodeUrge! 🚀</h1>
 
 <p align="center">
-  A Tech Enthusiast & Engineering UnderGrad <br>
+  A Tech Enthusiast & Engineering Student <br>
   Currently working on <a href="#">AI-Based Loan Finance App</a> <br>
   Learning <a href="#">DSA</a> and <a href="#">Web Development</a> <br>
   Proficient in <a href="#">JavaScript</a>, and <a href="#">React</a> <br><br>
