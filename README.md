@@ -5,7 +5,7 @@
   Currently working on <a href="#">AI-Based Loan Finance App</a> <br>
   Learning <a href="#">DSA</a> and <a href="#">Web Development</a> <br>
   Proficient in <a href="#">JavaScript</a>, and <a href="#">React</a> <br><br>
-  <img src="https://komarev.com/ghpvc/?username=codeurge&label=PROFILE+VIEWS&color=orange&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=code-urge&label=PROFILE+VIEWS&color=orange&style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -13,51 +13,57 @@
 <h2 align="center">📌 Technical Skills</h2>
 
 <p align="center">
-  <table>
+  <table style="margin: auto;">
     <tr>
-      <th>Category</th>
+      <th>Domain</th>
       <th>Technologies</th>
     </tr>
     <tr>
-      <td>Languages</td>
+      <td><strong>Programming Languages</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 10px;" alt="Python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 10px;" alt="JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin: 10px;" alt="C++">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" style="margin: 10px;" alt="MATLAB">
       </td>
     </tr>
     <tr>
-      <td>Frontend</td>
+      <td><strong>Frontend Development</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 10px;" alt="HTML5">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 10px;" alt="CSS3">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin: 10px;" alt="Tailwind CSS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 10px;" alt="React">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 10px;" alt="Bootstrap">
       </td>
     </tr>
     <tr>
-      <td>Backend</td>
+      <td><strong>Backend Development</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 10px;" alt="Node.js">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin: 10px;" alt="Express.js">
       </td>
     </tr>
     <tr>
-      <td>Database & Services</td>
+      <td><strong>Databases & Cloud Services</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 10px;" alt="MongoDB">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin: 10px;" alt="MySQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" style="margin: 10px;" alt="Firebase">
       </td>
     </tr>
     <tr>
-      <td>DevOps & Tools</td>
+      <td><strong>Tools & Platforms</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 10px;" alt="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="margin: 10px;" alt="Linux">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" style="margin: 10px;" alt="Postman">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin: 10px;" alt="Figma">
       </td>
     </tr>
   </table>
 </p>
+
 
 ---
 
@@ -72,9 +78,8 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-urge&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-urge&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
-
 
 ---
 
