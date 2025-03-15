@@ -1,11 +1,11 @@
-<h1 align="center">I'm CodeUrge! 🚀</h1>
+<h1 align="center">Hi there👋, <br> I'm CodeUrge! 🚀</h1>
 
 <p align="center">
   A Tech Enthusiast & Engineering UnderGrad <br>
   Currently working on <a href="#">AI-Based Loan Finance App</a> <br>
   Learning <a href="#">DSA</a> and <a href="#">Web Development</a> <br>
   Proficient in <a href="#">JavaScript</a>, and <a href="#">React</a> <br><br>
-  <img src="https://komarev.com/ghpvc/?username=code-urge&label=PROFILE+VIEWS&color=orange&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=code-urge&label=PROFILE+VIEWS&color=orange&style=flat" width="150px" padding = "10px" alt="Profile Views">
 </p>
 
 ---
@@ -91,3 +91,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=adobe&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
 </p>
+<p align = "right">![MyartMygifGIF](https://github.com/user-attachments/assets/1d8894ce-f31f-427a-a946-f21238982796)</p>
